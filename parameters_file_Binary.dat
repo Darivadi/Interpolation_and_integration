@@ -1,0 +1,9 @@
+#---------------------------------------
+#--------- PARAMETERS FILE -------------
+#---------------------------------------
+#+++++++++++++++++++++++++++++++++++++++
+#Number of cells per axis is N
+#Total number of cells is N^3
+N = 128
+#Path of data file
+FILENAME = /home/darivadi/Documents/University/Master/Courses/Scientific_computation/Proyecto/CIC_Sim_plus_2MASS/Processed_data/DenCon_Pot_PotDot.bin

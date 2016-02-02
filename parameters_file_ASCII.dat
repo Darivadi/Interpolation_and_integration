@@ -1,0 +1,19 @@
+#---------------------------------------
+#--------- PARAMETERS FILE -------------
+#---------------------------------------
+#+++++++++++++++++++++++++++++++++++++++
+#Number of cells per axis is N
+#Total number of cells is N^3
+N = 128
+#Length of the box in one axis (in Mpc/h)
+L = 40.0
+#Path of data file
+FILENAME = /home/darivadi/Documents/University/Master/Courses/Scientific_computation/Proyecto/CIC_Sim_plus_2MASS/Processed_data/DenCon_Potential_PotDot_fields.dat
+#Matter parameter today
+OmegaM0 = 0.258
+#Cosmological constant parameter
+OmegaL0 = 0.742
+#Redshift
+z = 0.0
+#Hubble parameter
+H = 100
